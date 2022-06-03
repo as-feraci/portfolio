@@ -2,3 +2,8 @@ html, body {
     height: 100%;
     width: 100%;
   }
+
+  body {
+    background-image: url("tumblr_07cf8169b5bf7287cf3a8db5d5f6d50a_70ce0bce_2048.jpg");
+    background-color: #cccccc;
+   }
